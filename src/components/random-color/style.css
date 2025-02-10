@@ -1,0 +1,10 @@
+.container button{
+    width: 220px;
+    height: 60px;
+    margin:20px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    /* background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); */
+    border: 2px solid white;
+   font-weight: bold;
+}
